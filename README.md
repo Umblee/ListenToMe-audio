@@ -1,4 +1,4 @@
-# ListenToMe Voices
+# ListenToMe Audios
 
 Repository ini digunakan untuk menyimpan file audio yang dipakai oleh aplikasi ListenToMe.
 
